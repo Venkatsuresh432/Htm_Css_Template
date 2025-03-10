@@ -1,0 +1,19 @@
+structure
+    -- starting page --> index.html
+index.html --> style.css
+gallery.html --> gallery.css
+ourTeam.html --> ourTeam.css
+curriculum.html --> curriculum.css
+contact.html --> contact.css
+
+        -- using AOS For Scroll Animation
+learn AOS ->Animate on scroll 
+https://michalsnik.github.io/aos/
+
+        -- Image and css file are placed in public folder.
+        -- Add title logo into images and import in all pages
+        -- Check gallery page and it has an different header if you needed change into every css file.
+        -- I am not written any mediaquery. 
+        -- Check footer and do changes for your requirement. But don't remove footer. 
+        -- If you need any changes do as a team for easily understand an code structure.
+
